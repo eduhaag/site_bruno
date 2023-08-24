@@ -10,6 +10,11 @@
     position: relative;
 }
 
+body {
+    Display: Flex;
+    Flex-direction: column;
+    Align-items: center
+}
 
 .logo {
     height: 100px;
