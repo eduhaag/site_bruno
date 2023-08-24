@@ -19,7 +19,6 @@ body {
     height: 100px;
     width: 140px;
     display: flex;
-    position: fixed;
     justify-content: start;
     align-items: center;
     margin-top: 10px;
@@ -64,7 +63,6 @@ body {
 
 .picture {
     display: flex;
-    position: fixed;
     justify-content: center;
     margin-left: 20vh;
 }
